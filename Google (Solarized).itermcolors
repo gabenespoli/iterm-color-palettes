@@ -141,9 +141,9 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.51875698566436768</real>
+		<real>0.63529413938522339</real>
 		<key>Red Component</key>
-		<real>0.26020762324333191</real>
+		<real>0.25882354378700256</real>
 	</dict>
 	<key>Ansi 5 Color</key>
 	<dict>
@@ -310,9 +310,9 @@
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.51875698566436768</real>
+		<real>0.63529413938522339</real>
 		<key>Red Component</key>
-		<real>0.26020762324333191</real>
+		<real>0.25882354378700256</real>
 	</dict>
 	<key>Selected Text Color</key>
 	<dict>
