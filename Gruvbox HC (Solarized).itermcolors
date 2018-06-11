@@ -33,7 +33,7 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.40354266762733459</real>
+		<real>0.40354269742965698</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
@@ -59,13 +59,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.64253073930740356</real>
+		<real>0.5290718674659729</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.73528599739074707</real>
+		<real>0.58459573984146118</real>
 		<key>Red Component</key>
-		<real>0.78885966539382935</real>
+		<real>0.64063441753387451</real>
 	</dict>
 	<key>Ansi 13 Color</key>
 	<dict>
@@ -254,13 +254,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.64253073930740356</real>
+		<real>0.5290718674659729</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.73528599739074707</real>
+		<real>0.58459573984146118</real>
 		<key>Red Component</key>
-		<real>0.78885966539382935</real>
+		<real>0.64063441753387451</real>
 	</dict>
 	<key>Cursor Guide Color</key>
 	<dict>
@@ -293,13 +293,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.64253073930740356</real>
+		<real>0.5290718674659729</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.73528599739074707</real>
+		<real>0.58459573984146118</real>
 		<key>Red Component</key>
-		<real>0.78885966539382935</real>
+		<real>0.64063441753387451</real>
 	</dict>
 	<key>Link Color</key>
 	<dict>
@@ -332,13 +332,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.64253073930740356</real>
+		<real>0.5290718674659729</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.73528599739074707</real>
+		<real>0.58459573984146118</real>
 		<key>Red Component</key>
-		<real>0.78885966539382935</real>
+		<real>0.64063441753387451</real>
 	</dict>
 </dict>
 </plist>
